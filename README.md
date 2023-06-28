@@ -10,6 +10,7 @@ Simple and easy to follow guide to start a Quiz App which uses the Navigation an
 <img src="/docs/img3.png " height="400" width="200" />
 <img src="/docs/img4.png" height="400" width="200" />
 <img src="/docs/img5.png" height="400" width="200" />
+<img src="/docs/img6.png" height="400" width="200" />
 </span>
 
 ## Screens
@@ -20,6 +21,11 @@ Simple and easy to follow guide to start a Quiz App which uses the Navigation an
 - ProgressBar Screen
 - Result Screen
 
+## Expo
+
+- expo
+- expo-status-bar
+
 ## React-Native
 
 - @react-navigation/native
@@ -29,6 +35,7 @@ Simple and easy to follow guide to start a Quiz App which uses the Navigation an
 
 ## Run the app
 
-- git clone https://github.com/n-bhasin/ReactNative-QuizApp.git && cd ReactNative-QuizApp
+- git clone https://github.com/n-bhasin/ReactNative-QuizApp.git
+- cd ReactNative-QuizApp
 - yarn install
 - yarn run ios
